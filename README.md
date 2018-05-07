@@ -14,7 +14,7 @@ Commands:
 	- This command will create two evenly balanced teams.
 	
 [p]stacked:
-	- This command will create one team with the 5 best players, and one teams with the 5 worst players.
+	- This command will create one team with the 5 best players, and one team with the 5 worst players.
 	
 [p]random:
 	- This command serves no utilitarian purpose, it just creates two random teams.
